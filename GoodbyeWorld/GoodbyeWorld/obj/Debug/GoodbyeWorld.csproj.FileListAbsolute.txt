@@ -1,0 +1,6 @@
+c:\users\filippov\documents\visual studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\bin\Debug\GoodbyeWorld.exe.config
+C:\Users\filippov\Documents\Visual Studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\bin\Debug\GoodbyeWorld.exe
+C:\Users\filippov\Documents\Visual Studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\bin\Debug\GoodbyeWorld.pdb
+C:\Users\filippov\Documents\Visual Studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\obj\Debug\GoodbyeWorld.exe
+C:\Users\filippov\Documents\Visual Studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\obj\Debug\GoodbyeWorld.pdb
+C:\Users\filippov\Documents\Visual Studio 2015\Projects\GoodbyeWorld\GoodbyeWorld\obj\Debug\GoodbyeWorld.csprojResolveAssemblyReference.cache
