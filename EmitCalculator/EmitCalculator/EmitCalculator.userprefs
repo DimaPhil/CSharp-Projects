@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="EmitCalculator/EmitCalculator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmitCalculator/Program.cs">
+    <Files>
+      <File FileName="EmitCalculator/Program.cs" Line="9" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
